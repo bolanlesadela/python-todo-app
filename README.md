@@ -43,5 +43,5 @@ A clean, modern desktop to-do application built with Python and CustomTkinter.
 
 ## Author
 
-**Omobolanie Sadela**  
+**Omobolanle Sadela**  
 [GitHub](https://github.com/bolanlesadela) · [LinkedIn](https://www.linkedin.com/in/omobolanle-sadela-7a486a1b4/)
